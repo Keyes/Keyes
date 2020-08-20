@@ -6,8 +6,8 @@ Cat enthusiast, avid concert goer, high quality code calms my inner Sheldon Coop
 
 ## 📊 GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keyes" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Keyes&show_icons=true&count_private=true&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keyes&title_color=b70000&icon_color=b70000" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Keyes&show_icons=true&count_private=true&hide=issues&include_all_commits=true&title_color=b70000&icon_color=b70000" />
 </div>
 
 ## 🛠 Tech & Tools
