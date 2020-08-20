@@ -1,8 +1,12 @@
 [![Header](https://raw.githubusercontent.com/Keyes/Keyes/master/title_image.jpg "Header")](https://juliankern.com/)
 
-### Hello World 👋
+# Hello World 👋
 
 Cat enthusiast, avid concert goer, high quality code calms my inner Sheldon Cooper. 
+
+## 📊 GitHub Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keyes" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Keyes&show_icons=true&count_private=true" />
 
 <!--
 **Keyes/Keyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
