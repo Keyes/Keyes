@@ -6,7 +6,7 @@ Cat enthusiast, avid concert goer, high quality code calms my inner Sheldon Coop
 
 ## 📊 GitHub Stats
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keyes" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keyes" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Keyes&show_icons=true&count_private=true&hide=issues" />
 </div>
 
@@ -15,6 +15,7 @@ Cat enthusiast, avid concert goer, high quality code calms my inner Sheldon Coop
 <img align="left" src="https://img.shields.io/badge/OS-macOS-d46363?style=for-the-badge&logo=apple&logoColor=fff" alt="OS: macOS">
 <br />
 <img align="left" src="https://img.shields.io/badge/IDE-VS%20Code-d46363?style=for-the-badge&logo=visual-studio-code&logoColor=fff" alt="IDE: VS Code">
+<br />
 <img align="left" src="https://img.shields.io/badge/Code-Vue.js-d46363?style=for-the-badge&logo=vue.js&logoColor=fff" alt="Code: Vue.js">
 <img align="left" src="https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff" alt="Code: JavaScript">
 <br />
