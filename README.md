@@ -13,9 +13,12 @@ Cat enthusiast, avid concert goer, high quality code calms my inner Sheldon Coop
 ## 🛠 Tech & Tools
 
 ![OS: macOS](https://img.shields.io/badge/OS-macOS-d46363?style=for-the-badge&logo=apple&logoColor=fff)
+
 ![IDE: VS Code](https://img.shields.io/badge/IDE-VS%20Code-d46363?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+
 ![Code: Vue.js](https://img.shields.io/badge/Code-Vue.js-d46363?style=for-the-badge&logo=vue.js&logoColor=fff)
 ![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff)
+
 ![Tool: Node.js](https://img.shields.io/badge/Tool-Node.js-d46363?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Tool: Docker](https://img.shields.io/badge/Tool-Docker-d46363?style=for-the-badge&logo=docker&logoColor=fff)
 
