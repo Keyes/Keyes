@@ -17,9 +17,12 @@ Cat enthusiast, avid concert goer, high quality code calms my inner Sheldon Coop
 
 ![Code: Vue.js](https://img.shields.io/badge/Code-Vue.js-d46363?style=for-the-badge&logo=vue.js&logoColor=fff)
 ![Code: JavaScript](https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff)
+![Code: SCSS](https://img.shields.io/badge/Code-SCSS-d46363?style=for-the-badge&logo=sass&logoColor=fff)
 
 ![Tool: Node.js](https://img.shields.io/badge/Tool-Node.js-d46363?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Tool: Docker](https://img.shields.io/badge/Tool-Docker-d46363?style=for-the-badge&logo=docker&logoColor=fff)
+![Tool: Git](https://img.shields.io/badge/Tool-Git-d46363?style=for-the-badge&logo=git&logoColor=fff)
+![Tool: Slack](https://img.shields.io/badge/Tool-Slack-d46363?style=for-the-badge&logo=slack&logoColor=fff)
 
 <!--
 **Keyes/Keyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
