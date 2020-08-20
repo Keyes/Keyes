@@ -12,10 +12,7 @@ Cat enthusiast, avid concert goer, high quality code calms my inner Sheldon Coop
 
 ## 🛠 Tech & Tools
 
-<img align="left" src="https://img.shields.io/badge/OS-macOS-d46363?style=for-the-badge&logo=apple&logoColor=fff" alt="OS: macOS">
-<img align="left" src="https://img.shields.io/badge/IDE-VS%20Code-d46363?style=for-the-badge&logo=visual-studio-code&logoColor=fff" alt="IDE: VS Code">
-<img align="left" src="https://img.shields.io/badge/Code-Vue.js-d46363?style=for-the-badge&logo=vue.js&logoColor=fff" alt="Code: Vue.js"><img align="left" src="https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff" alt="Code: JavaScript">
-<img align="left" src="https://img.shields.io/badge/Tool-Node.js-d46363?style=for-the-badge&logo=node.js&logoColor=fff" alt="Tool: Node.js"><img style="display:inline" src="https://img.shields.io/badge/Tool-Docker-d46363?style=for-the-badge&logo=docker&logoColor=fff" alt="Tool: Docker">
+<img align="left" src="https://img.shields.io/badge/OS-macOS-d46363?style=for-the-badge&logo=apple&logoColor=fff" alt="OS: macOS"><br /><img align="left" src="https://img.shields.io/badge/IDE-VS%20Code-d46363?style=for-the-badge&logo=visual-studio-code&logoColor=fff" alt="IDE: VS Code"><br /><img align="left" src="https://img.shields.io/badge/Code-Vue.js-d46363?style=for-the-badge&logo=vue.js&logoColor=fff" alt="Code: Vue.js"><img align="left" src="https://img.shields.io/badge/Code-JavaScript-d46363?style=for-the-badge&logo=javascript&logoColor=fff" alt="Code: JavaScript"><br /><img align="left" src="https://img.shields.io/badge/Tool-Node.js-d46363?style=for-the-badge&logo=node.js&logoColor=fff" alt="Tool: Node.js"><img style="display:inline" src="https://img.shields.io/badge/Tool-Docker-d46363?style=for-the-badge&logo=docker&logoColor=fff" alt="Tool: Docker">
 
 <!--
 **Keyes/Keyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
