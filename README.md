@@ -2,7 +2,7 @@
 
 # Hello World 👋
 
-Cat enthusiast, avid concert goer, high quality code calms my inner Sheldon Cooper. 
+Cat & car enthusiast, avid concert goer, high quality code calms my inner Sheldon Cooper. 
 
 ## 📊 GitHub Stats
 <div>
@@ -23,6 +23,13 @@ Cat enthusiast, avid concert goer, high quality code calms my inner Sheldon Coop
 ![Tool: Docker](https://img.shields.io/badge/Tool-Docker-d46363?style=for-the-badge&logo=docker&logoColor=fff)
 ![Tool: Git](https://img.shields.io/badge/Tool-Git-d46363?style=for-the-badge&logo=git&logoColor=fff)
 ![Tool: Slack](https://img.shields.io/badge/Tool-Slack-d46363?style=for-the-badge&logo=slack&logoColor=fff)
+
+## 📫 How to reach me
+- [mail@juliankern.com](mailto:mail@juliankern.com)
+- [juliankern.com](https://juliankern.com)
+- [LinkedIn](http://linkedin.com/in/juliankerncom)
+- [Xing](https://www.xing.com/profile/Julian_Kern4)
+
 
 <!--
 **Keyes/Keyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
