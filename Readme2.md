@@ -7,13 +7,21 @@ Cat & car enthusiast, avid concert goer, high quality code calms my inner Sheldo
 ## 📊 GitHub Stats
 <div style="overflow:hidden;">
   <div style="width: 50%;float: left;">
-    - On GitHub: 10
-    - Pull requests: 641
-    - Commits: 2880
-    - Gists: 9
+    <strong>About me</strong>
+    - On GitHub since: 10years<br />
+    - Pull requests: 641<br />
+    - Commits: 2882<br />
+    - Gists: 9<br />
     - Contributed to repos: 29
   </div>
-  <div style="width: 50%;float: left;"></div>
+  <div style="width: 50%;float: left;">
+    <strong>Top 5 languages</strong>
+          - PHP: 78.6<br />
+          - CSS: 13.2<br />
+          - JavaScript: 6.6<br />
+          - Vue: 0.7<br />
+          - Other: 0.6<br />
+      </div>
 </div>
 
 ## 🛠 Tech & Tools
