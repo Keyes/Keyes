@@ -6,11 +6,11 @@ Cat & car enthusiast, avid concert goer, high quality code calms my inner Sheldo
 
 ## 📊 GitHub Stats
 <div>
-  <img align="left" src="https://github-readme-stats.keyes.vercel.app/api/top-langs/?username=Keyes&hide=php&layout=compact&title_color=d46363&icon_color=d46363" />
+  <img src="https://github-readme-stats.keyes.vercel.app/api/top-langs/?username=Keyes&hide=php&layout=compact&title_color=d46363&icon_color=d46363" />
   <img align="left" src="https://github-readme-stats.keyes.vercel.app/api?username=Keyes&show_icons=true&count_private=true&hide=issues&include_all_commits=true&title_color=d46363&icon_color=d46363" />
 </div><br />
 
-<div>
+
 ## 🛠 Tech & Tools
 
 ![OS: macOS](https://img.shields.io/badge/OS-macOS-d46363?style=for-the-badge&logo=apple&logoColor=fff)
@@ -24,7 +24,7 @@ Cat & car enthusiast, avid concert goer, high quality code calms my inner Sheldo
 ![Tool: Docker](https://img.shields.io/badge/Tool-Docker-d46363?style=for-the-badge&logo=docker&logoColor=fff)
 ![Tool: Git](https://img.shields.io/badge/Tool-Git-d46363?style=for-the-badge&logo=git&logoColor=fff)
 ![Tool: Slack](https://img.shields.io/badge/Tool-Slack-d46363?style=for-the-badge&logo=slack&logoColor=fff)
-</div>
+
 
 ## 📫 How to reach me
 - [mail@juliankern.com](mailto:mail@juliankern.com)
