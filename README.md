@@ -6,11 +6,10 @@ Cat & car enthusiast, avid concert goer, high quality code calms my inner Sheldo
 
 ## 📊 GitHub Stats
 <div>
-  <img src="https://github-readme-stats.keyes.vercel.app/api/top-langs/?username=Keyes&card_width=250&hide=php&layout=compact&title_color=d46363&icon_color=d46363" />
+  <img src="https://github-readme-stats.keyes.vercel.app/api/top-langs/?username=Keyes&card_width=270&hide=php&layout=compact&title_color=d46363&icon_color=d46363" />
   <img align="left" src="https://github-readme-stats.keyes.vercel.app/api?username=Keyes&show_icons=true&count_private=true&hide=issues&include_all_commits=true&title_color=d46363&icon_color=d46363" />
-  <br />
 </div>
-
+<br />
 
 ## 🛠 Tech & Tools
 
