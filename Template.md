@@ -7,13 +7,19 @@ Cat & car enthusiast, avid concert goer, high quality code calms my inner Sheldo
 ## 📊 GitHub Stats
 <div style="overflow:hidden;">
   <div style="width: 50%;float: left;">
-    - On GitHub: {{ ACCOUNT_AGE }}
-    - Pull requests: {{ PULL_REQUESTS }}
-    - Commits: {{ COMMITS }}
-    - Gists: {{ GISTS }}
+    <strong>About me</strong>
+    - On GitHub since: {{ ACCOUNT_AGE }}years<br />
+    - Pull requests: {{ PULL_REQUESTS }}<br />
+    - Commits: {{ COMMITS }}<br />
+    - Gists: {{ GISTS }}<br />
     - Contributed to repos: {{ REPOSITORIES_CONTRIBUTED_TO }}
   </div>
-  <div style="width: 50%;float: left;"></div>
+  <div style="width: 50%;float: left;">
+    <strong>Top 5 languages</strong>
+    {{ LANGUAGE_TEMPLATE_START:max=5 }}
+      - {{ LANGUAGE_NAME }}: {{ LANGUAGE_PERCENT }}
+    {{ LANGUAGE_TEMPLATE_END }}
+  </div>
 </div>
 
 ## 🛠 Tech & Tools
