@@ -20,6 +20,7 @@ jobs:
       with:
         token: ${{ secrets.USER_TOKEN }}
         readme: './Readme2.md'
+        template: './Template.md'
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
