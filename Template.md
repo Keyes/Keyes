@@ -17,7 +17,7 @@ Cat & car enthusiast, avid concert goer, high quality code calms my inner Sheldo
   <div style="width: 50%;float: left;">
     <strong>Top 5 languages</strong>
     {{ LANGUAGE_TEMPLATE_START:max=5 }}
-      - {{ LANGUAGE_NAME }}: {{ LANGUAGE_PERCENT }}
+      - {{ LANGUAGE_NAME }}: {{ LANGUAGE_PERCENT }}<br />
     {{ LANGUAGE_TEMPLATE_END }}
   </div>
 </div>
